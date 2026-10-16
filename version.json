@@ -1,0 +1,25 @@
+{
+  "version": "1.0.2",
+  "url": "https://raw.githubusercontent.com/kiattisak211056-hub/Downlaod/refs/heads/main/net10.0-windows.rar",
+  "sha256": "PUT-THE-SHA256-OF-THE-ZIP-HERE",
+  "size": 18452310,
+  "changelog": [
+    {
+      "version": "1.0.2",
+      "date": "2026-10-16",
+      "changes": [
+        "Added Settings window with Auto Inject",
+        "Added Script Hub",
+        "Smoother scrolling"
+      ]
+    },
+    {
+      "version": "1.0.1",
+      "date": "2026-10-10",
+      "changes": [
+        "Fixed tabs going blank after switching"
+      ]
+    }
+  ],
+  "delete": []
+}
